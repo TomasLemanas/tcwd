@@ -1,1 +1,1 @@
-Mano batai buvo du, vienas dingo, nu pzidu. 
+Mano batai buvo du, vienas dingo, nu ____. 
